@@ -38,3 +38,10 @@ if (time < 10)
     }
     }
   
+
+
+
+    // output
+    //1 Good evening
+  //2 invalid
+  //3 valid
